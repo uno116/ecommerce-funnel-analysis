@@ -144,43 +144,37 @@
 
 
 
-\## 7. 可视化
-\### Python 分析图表
+## 7. 可视化
 
-!\[用户级漏斗](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/funnel\_user.png)
+### Python 分析图表
 
-!\[用户-商品级漏斗](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/funnel\_item.png)
+![用户级漏斗](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/funnel_user.png)
 
-!\[留存曲线](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/retention\_by\_behavior.png)
+![用户-商品级漏斗](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/funnel_item.png)
 
-!\[RFM分群](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/rfm\_cluster.png)
+![留存曲线](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/retention_by_behavior.png)
 
-!\[AB实验](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/ab\_test.png)
+![RFM分群](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/rfm_cluster.png)
 
-!\[ROI分析](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/roi\_analysis.png)
+![AB实验](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/ab_test.png)
 
+![ROI分析](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/roi_analysis.png)
 
+### Power BI 看板
 
-\### Power BI 看板
+**第1页：总览**
 
+![总览](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/dashboard/dashboard_p1.png)
 
+**第2页：漏斗与留存**
 
-\*\*第1页：总览\*\*
-!\[总览](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/dashboard/dashboard\_p1.png)
+![漏斗与留存](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/dashboard/dashboard_p2.png)
 
+**第3页：策略与AB实验**
 
+![策略与AB实验](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/dashboard/dashboard_p3.png)
 
-\*\*第2页：漏斗与留存\*\*
-!\[漏斗与留存](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/dashboard/dashboard\_p2.png)
-
-
-
-\*\*第3页：策略与AB实验\*\*
-!\[策略与AB实验](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/dashboard/dashboard\_p3.png)
-
-
-完整看板 PDF：[dashboard/ecommerce_dashboard.pdf](https://github.com/uno116/ecommerce-funnel-analysis/blob/main/dashboard/ecommerce_dashboard.pdf)
-
+完整看板 PDF：[ecommerce_dashboard.pdf](https://github.com/uno116/ecommerce-funnel-analysis/blob/main/dashboard/ecommerce_dashboard.pdf)
 
 
 \## 8. 目录结构
