@@ -145,11 +145,7 @@
 
 
 \## 7. 可视化
-
-
-
 \### Python 分析图表
-
 !\[用户级漏斗](images/funnel\_user.png)
 
 !\[用户-商品级漏斗](images/funnel\_item.png)
@@ -169,23 +165,17 @@
 
 
 \*\*第1页：总览\*\*
-
 !\[总览](dashboard/dashboard\_p1.png)
 
 
 
 \*\*第2页：漏斗与留存\*\*
-
 !\[漏斗与留存](dashboard/dashboard\_p2.png)
 
 
 
 \*\*第3页：策略与AB实验\*\*
-
 !\[策略与AB实验](dashboard/dashboard\_p3.png)
-
-
-
 完整看板 PDF：\[dashboard/ecommerce\_dashboard.pdf](dashboard/ecommerce\_dashboard.pdf)
 
 
