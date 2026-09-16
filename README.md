@@ -146,17 +146,18 @@
 
 \## 7. 可视化
 \### Python 分析图表
-!\[用户级漏斗](images/funnel\_user.png)
 
-!\[用户-商品级漏斗](images/funnel\_item.png)
+!\[用户级漏斗](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/funnel\_user.png)
 
-!\[留存曲线](images/retention\_by\_behavior.png)
+!\[用户-商品级漏斗](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/funnel\_item.png)
 
-!\[RFM分群](images/rfm\_cluster.png)
+!\[留存曲线](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/retention\_by\_behavior.png)
 
-!\[AB实验](images/ab\_test.png)
+!\[RFM分群](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/rfm\_cluster.png)
 
-!\[ROI分析](images/roi\_analysis.png)
+!\[AB实验](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/ab\_test.png)
+
+!\[ROI分析](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/images/roi\_analysis.png)
 
 
 
@@ -165,18 +166,20 @@
 
 
 \*\*第1页：总览\*\*
-!\[总览](dashboard/dashboard\_p1.png)
+!\[总览](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/dashboard/dashboard\_p1.png)
 
 
 
 \*\*第2页：漏斗与留存\*\*
-!\[漏斗与留存](dashboard/dashboard\_p2.png)
+!\[漏斗与留存](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/dashboard/dashboard\_p2.png)
 
 
 
 \*\*第3页：策略与AB实验\*\*
-!\[策略与AB实验](dashboard/dashboard\_p3.png)
-完整看板 PDF：\[dashboard/ecommerce\_dashboard.pdf](dashboard/ecommerce\_dashboard.pdf)
+!\[策略与AB实验](https://raw.githubusercontent.com/uno116/ecommerce-funnel-analysis/main/dashboard/dashboard\_p3.png)
+
+
+完整看板 PDF：[dashboard/ecommerce_dashboard.pdf](https://github.com/uno116/ecommerce-funnel-analysis/blob/main/dashboard/ecommerce_dashboard.pdf)
 
 
 
